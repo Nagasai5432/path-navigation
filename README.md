@@ -72,16 +72,6 @@ This bridges the gap between:
 
 ---
 
-##  Demo
-
-> *(Add your demo GIF or video here)*
-
-```id="demo02"
-![Demo](assets/demo.gif)
-```
-
----
-
 ##  Installation
 
 ```bash id="inst02"
